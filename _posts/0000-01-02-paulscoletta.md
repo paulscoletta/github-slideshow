@@ -2,5 +2,5 @@
 layout: slide
 title: 'Welcome to our second slide!'
 ---
-Bla Bla
+Buy moar cocaine at your local dealer!
 Use the left arrow to go back!
